@@ -1,0 +1,15 @@
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\bin\Debug\net6.0\Z8.exe
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\bin\Debug\net6.0\Z8.deps.json
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\bin\Debug\net6.0\Z8.runtimeconfig.json
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\bin\Debug\net6.0\Z8.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\bin\Debug\net6.0\Z8.pdb
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.csproj.AssemblyReference.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.AssemblyInfoInputs.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.AssemblyInfo.cs
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.csproj.CoreCompileInputs.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\refint\Z8.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.pdb
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\Z8.genruntimeconfig.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ1\Z8\obj\Debug\net6.0\ref\Z8.dll
